@@ -27,15 +27,16 @@
 2. Create a project and make an HTML 5 File. Check other steps above.
 3. Edit your file and connect Webstorm to Github.
 
-Branch - an independent line of development
-Clone - git command line utility which is used at targeting an already exsisting repository and creating a clone or copy of that repository.
-Commit - creates a snapshot of the current changes of the project.
-Fetch - downloads commits, files, and refs from a remote repository into your local repository.
-GIT - a software made for tracking chanegs in any set file.
-Github - website made for software development and version control using GIT
-Merge - lets you take the independent lines of development created by git branch and integrate them into a single branch.
-Merge Conflict - when git is unable to automatically resolve differences in two commits. 
-Push - command to upload local repositories into remote repositories.
-Pull - command to upload remote repositiroes into local repositories to match data. 
-Remote - repository that is hosted by internet or another network.
-Repository - contains all your project files and each file's revision history. 
+#Glossary Words
+1. Branch - an independent line of development
+2. Clone - git command line utility which is used at targeting an already exsisting repository and creating a clone or copy of that repository.
+3. Commit - creates a snapshot of the current changes of the project.
+4. Fetch - downloads commits, files, and refs from a remote repository into your local repository.
+5. GIT - a software made for tracking chanegs in any set file.
+6. Github - website made for software development and version control using GIT
+7. Merge - lets you take the independent lines of development created by git branch and integrate them into a single branch.
+8. Merge Conflict - when git is unable to automatically resolve differences in two commits. 
+9. Push - command to upload local repositories into remote repositories.
+10. Pull - command to upload remote repositiroes into local repositories to match data. 
+11. Remote - repository that is hosted by internet or another network.
+12. Repository - contains all your project files and each file's revision history. 
